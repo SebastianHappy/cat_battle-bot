@@ -1,0 +1,100 @@
+{
+    "Inventario_Usuarios": [
+        {
+            "Nombre_Discord": "test_user",
+            "Id_Discord": 1231231231231231,
+            "Nombre": "TestUser",
+            "CatCoins": 0,
+            "Gatos": [],
+            "articulos": []
+        },
+        {
+            "Nombre_Discord": "ultrapapupendejo",
+            "Id_Discord": 1152676786824548415,
+            "Nombre": "sebas",
+            "CatCoins": 25,
+            "Gatos": [
+                {
+                    "nombre": "gato raton",
+                    "tipo": "comun",
+                    "atk": 4,
+                    "def": 5,
+                    "hab": "none"
+                },
+                {
+                    "nombre": "speaker cat",
+                    "tipo": "comun",
+                    "atk": 2,
+                    "def": 10,
+                    "hab": "none"
+                },
+                {
+                    "nombre": "gato tv",
+                    "tipo": "comun",
+                    "atk": 3,
+                    "def": 10,
+                    "hab": "none"
+                },
+                {
+                    "nombre": "Gato Soponsio",
+                    "tipo": "Comun",
+                    "atk": 2,
+                    "def": 8,
+                    "hab": "Baja la mitad de la vida al oponente"
+                },
+                {
+                    "nombre": "sus cat",
+                    "tipo": "comun",
+                    "atk": 4,
+                    "def": 7,
+                    "hab": "none"
+                }
+            ],
+            "Articulos": []
+        },
+        {
+            "Nombre_Discord": "fenixrake",
+            "Id_Discord": 970489339417088061,
+            "Nombre": "fenixrakd",
+            "CatCoins": 0,
+            "Gatos": [
+                {
+                    "nombre": "gato raton",
+                    "tipo": "comun",
+                    "atk": 4,
+                    "def": 5,
+                    "hab": "none"
+                },
+                {
+                    "nombre": "Gatito",
+                    "tipo": "Comun",
+                    "atk": 2,
+                    "def": 8,
+                    "hab": "None"
+                },
+                {
+                    "nombre": "gato onu",
+                    "tipo": "comun",
+                    "atk": 2,
+                    "def": 10,
+                    "hab": "none"
+                },
+                {
+                    "nombre": "Gatote",
+                    "tipo": "Comun",
+                    "atk": 1,
+                    "def": 12,
+                    "hab": "None"
+                },
+                {
+                    "nombre": "Gato Naranja",
+                    "tipo": "Comun",
+                    "atk": 1,
+                    "def": 9,
+                    "hab": "None"
+                }
+            ],
+            "Articulos": []
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "gatos": [
+        {
+            "nombre": "Cat",
+            "tipo": "Comun",
+            "atk": 1,
+            "def": 7,
+            "hab": "Mejorable"
+        },
+        {
+            "nombre": "Gatito",
+            "tipo": "Comun",
+            "atk": 2,
+            "def": 8,
+            "hab": "None"
+        },
+        {
+            "nombre": "Gatote",
+            "tipo": "Comun",
+            "atk": 1,
+            "def": 12,
+            "hab": "None"
+        },
+        {
+            "nombre": "Gato Naranja",
+            "tipo": "Comun",
+            "atk": 1,
+            "def": 9,
+            "hab": "None"
+        },
+        {
+            "nombre": "Gato Soponsio",
+            "tipo": "Comun",
+            "atk": 2,
+            "def": 8,
+            "hab": "Baja la mitad de la vida al oponente"
+        },
+        {
+            "nombre": "gato teclado",
+            "tipo": "comun",
+            "atk": 3,
+            "def": 7,
+            "hab": "none"
+        },
+        {
+            "nombre": "gato raton",
+            "tipo": "comun",
+            "atk": 4,
+            "def": 5,
+            "hab": "none"
+        },
+        {
+            "nombre": "gato onu",
+            "tipo": "comun",
+            "atk": 2,
+            "def": 10,
+            "hab": "none"
+        },
+        {
+            "nombre": "gato tv",
+            "tipo": "comun",
+            "atk": 3,
+            "def": 10,
+            "hab": "none"
+        },
+        {
+            "nombre": "speaker cat",
+            "tipo": "comun",
+            "atk": 2,
+            "def": 10,
+            "hab": "none"
+        },
+        {
+            "nombre": "sus cat",
+            "tipo": "comun",
+            "atk": 4,
+            "def": 7,
+            "hab": "none"
+        },
+        {
+            "nombre": "bakacat",
+            "tipo": "poco comun",
+            "atk": 3,
+            "def": 12,
+            "hab": "proximamente"
+        },
+        {
+            "nombre": "SDLG cat",
+            "tipo": "poco comun",
+            "atk": 2,
+            "def": 13,
+            "hab": "invoca 2 minions con atk 1 def 3"
+        },
+        {
+            "nombre": "toy cat",
+            "tipo": "poco comun",
+            "atk": 3,
+            "def": 15,
+            "hab": "none"
+        },
+        {
+            "nombre": "criticat",
+            "tipo": "poco comun",
+            "atk": 4,
+            "def": 9,
+            "hab": "proximamente"
+        },
+        {
+            "nombre": "impostor cat",
+            "tipo": "poco comun",
+            "atk": 5,
+            "def": 11,
+            "hab": "none"
+        },
+        {
+            "nombre": "clock cat",
+            "tipo": "poco comun",
+            "atk": 2,
+            "def": 7,
+            "hab": "repite tu turno"
+        },
+        {
+            "nombre": "i-cat",
+            "tipo": "poco comun",
+            "atk": 7,
+            "def": 4,
+            "hab": "none"
+        },
+        {
+            "nombre": "blox cat",
+            "tipo": "poco comun",
+            "atk": 4,
+            "def": 8,
+            "hab": "proximamente"
+        },
+        {
+            "nombre": "uwu cat",
+            "tipo": "poco comun",
+            "atk": 3,
+            "def": 8,
+            "hab": "encanta a un enemigo haciendo que no lo pueda atacar por el siguiente turno"
+        },
+        {
+            "nombre": "sword cat",
+            "tipo": "raro",
+            "atk": 8,
+            "def": 17,
+            "hab": "tal vez y posible nerf"
+        },
+        {
+            "nombre": "gun cat",
+            "tipo": "raro",
+            "atk": 5,
+            "def": 12,
+            "hab": "rango de 2 espacios"
+        },
+        {
+            "nombre": "gatoilet",
+            "tipo": "raro",
+            "atk": 8,
+            "def": 15,
+            "hab": "none"
+        },
+        {
+            "nombre": "super cat",
+            "tipo": "raro",
+            "atk": 10,
+            "def": 16,
+            "hab": "none"
+        },
+        {
+            "nombre": "badass cat",
+            "tipo": "raro",
+            "atk": 7,
+            "def": 14,
+            "hab": "proximamente"
+        },
+        {
+            "nombre": "friendzone cat",
+            "tipo": "raro",
+            "atk": 6,
+            "def": 10,
+            "hab": "cada vez que pega sus stats aumentan en 2 cuando lo golpeen por segunda vez ya no se le aumenta la vida y el da\u00f1o sube en 1 por golpe"
+        },
+        {
+            "nombre": "pcat",
+            "tipo": "raro",
+            "atk": 9,
+            "def": 13,
+            "hab": "proximamente"
+        },
+        {
+            "nombre": "nyan cat",
+            "tipo": "epico",
+            "atk": 12,
+            "def": 23,
+            "hab": "avanza 3 casillas o carga por 2 turnos y lanza un arcoiris que atraviesa enemigos y hace 27 de da\u00f1o"
+        },
+        {
+            "nombre": "divocat",
+            "tipo": "epico",
+            "atk": 14,
+            "def": 20,
+            "hab": "el oponente no puede usar un gato por 3 turnos y por esos 3 turnos ese gato tiene la mitad de la vida"
+        },
+        {
+            "nombre": "endercat",
+            "tipo": "epico",
+            "atk": 15,
+            "def": 20,
+            "hab": "solo puede ser atacado cvc"
+        },
+        {
+            "nombre": "gato enojado",
+            "tipo": "boss",
+            "atk": 3,
+            "def": 14,
+            "hab": "none"
+        },
+        {
+            "nombre": "gato pandillero",
+            "tipo": "boss",
+            "atk": 8,
+            "def": 24,
+            "hab": "cada 4 turnos su siguiente ataque tiene 2 espacios de rango"
+        },
+        {
+            "nombre": "la paradoja",
+            "tipo": "boss",
+            "atk": 58,
+            "def": 354,
+            "hab": "1. detiene el tiempo para volver a tener otros 2 turnos recarga 4 turnos 2. ataca a 3 cuadros de distancia 3. hace una explosion temporal haciendo da\u00f1o a todos los gatos a 2 cuadros de el (da\u00f1o =base*2) (PD: atk y vida son aprox por que no he hecho los miticos y este es un boss pensado pa miticos o legendarios)"
+        },
+        {
+            "nombre": "spike cat",
+            "tipo": "poco comun",
+            "atk": 3,
+            "def": 9,
+            "hab": "cuando le pegan el atacante recibe 2 de da\u00f1o"
+        },
+        {
+            "nombre": "fenix",
+            "tipo": "legendario",
+            "atk": 40,
+            "def": 480,
+            "hab": "(1. al morir se convierte en cenizas y despues de 2 turnos revive con la mitad de la vida (2. Enemigos adyacentes reciben 30 de da\u00f1o por turno por el calor (3. Mejorable (def y da\u00f1o aprox posible 4 hab)"
+        },
+        {
+            "nombre": "fenix:evo",
+            "tipo": "godlike",
+            "atk": 520,
+            "def": 1470,
+            "hab": "(1. Revive al siguiente turno despues de morir con la mitad de la vida y su da\u00f1o se multiplica por 1.5 si lo vuelven a matar en menos de 3 turnos muere normal y si lo matan despues de 3 turnos de revivir a los 3 turnos revive con \u00bc de la vida base y su da\u00f1o se triplica (osea base*3) esto aplica para todos los da\u00f1os (2. Al morir libera una explosion que hace 500 de da\u00f1o (3. Los enemigos adyacentes reciben 240 de da\u00f1o por turno que pasen cerca del fenix:evo (4. Puede cargar 3 turnos para lanzar un rayo de fuego que hace 900 de da\u00f1o rango 6 cuadros recarga 5 turnos (5. puede hacer un dash hacia cualquier lado esto le permite avanzar max 4 casillas y si traspasa a un enemigo le hace 400 de da\u00f1o recarga 5 turnos (todos los numeros son un aprox por q no se como vaya a ser el da\u00f1o o vida excepto el buff de da\u00f1o de revivir ese si se queda asi)"
+        }
+    ]
+}
